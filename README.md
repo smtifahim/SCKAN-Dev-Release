@@ -23,5 +23,5 @@ All steps to generate these artifacts are documented and selectively follow the 
 ## Notes
 
 - This is a developmental release for testing and validation. Artifacts and processes may change in future releases.
-- For full details and step-by-step instructions, see the `SCKAN-Release-Process`.
+- For full details and step-by-step instructions for a full SCKAN release, see the [`SCKAN-Release-Process`](https://github.com/smtifahim/SCKAN-Dev-Release/blob/main/SCKAN-Release-Process.md).
 - For questions or reproducibility issues, please open an issue or contact the maintainers.
